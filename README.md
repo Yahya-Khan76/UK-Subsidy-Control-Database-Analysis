@@ -12,3 +12,5 @@ Key areas of analysis include:
 The notebook is designed to be reproducible and well-documented, making it a useful reference for analysts, researchers, and anyone interested in UK public finance and subsidy transparency.
 
 > 📁 Data Source: UK Government Subsidy Transparency Database (https://searchforuksubsidies.beis.gov.uk/searchresults)
+
+This project was carried out during a summer internship at the Department For Business and Trade https://www.gov.uk/government/organisations/department-for-business-and-trade
